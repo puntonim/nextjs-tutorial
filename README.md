@@ -1,6 +1,17 @@
 # NEXT.JS TUTORIAL
 
-From: https://nextjs.org/learn/basics/create-nextjs-app
+Source: https://nextjs.org/learn/basics/create-nextjs-app
+
+Interesting examples:
+
+-   Blog with Markdown and nice UI:
+    -   Code: https://github.com/vercel/next.js/tree/canary/examples/blog-starter
+    -   Live: https://next-blog-starter.now.sh/
+-   Blog with Markdown and Netlify CMS, complete structure but ugly UI:
+    -   Code: https://github.com/wutali/nextjs-netlify-blog-template
+    -   Live: https://nextjs-netlify-blog-template.netlify.app/
+-   With Netlify CMS: https://github.com/vercel/next.js/tree/canary/examples/with-netlify-cms
+-   Tutorial at Netlify CMS: https://www.netlifycms.org/docs/nextjs/
 
 ## 1. Create the tutorial project
 
